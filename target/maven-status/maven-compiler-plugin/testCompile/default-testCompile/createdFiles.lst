@@ -1,0 +1,6 @@
+com\pageFactory\Home.class
+com\common\BrowserDriver.class
+com\common\TelusDataProperties.class
+stepDefinitions\TelusSearchStepsDefinition.class
+com\common\CommonMethods.class
+runner\TestRunner.class
